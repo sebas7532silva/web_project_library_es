@@ -244,26 +244,31 @@
 }
 
 .person_name_feynman {
+  position:absolute;
   right: 319px;
-  top: 0;
+  top: -30px;
 }
 
 .person_name_burbidge {
+  position:absolute;
   right: 125px;
   top: 96px;
 }
 
 .person_name_cannon {
+  position:absolute;
   right: 216px;
   bottom: 18px;
 }
 
 .person_name_mitchell {
+  position:absolute;
   left: 142px;
   bottom: 82px;
 }
 
 .person_name_tarter {
+  position:absolute;
   top: 79px;
   left: 159px;
 }
